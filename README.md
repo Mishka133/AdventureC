@@ -1,21 +1,9 @@
-#########################################
-#	Adventure in C			#
-#					#
-#	By Mishka133			#
-#					#
-#	Written Exclusively		#
-#	in the C programming		#
-#	Language as a Learning		#
-#	Experience to master		#
-#	C progrmming techniques		#
-#	and Data Stuctures.		#
-#					#
-#	Please feel free to		#
-#	add any feedback you		#
-#	wish. Thanks!			#
-#########################################
+# Adventure in C:
+This is a Text-based Adventure game written exclusively in C
+as a means for me to fully comprehend the basic functions of C and Data Structures / Algorithms.
+Please Feel free to comment and review!
 
-
+# Core Systems
 Core systems (WIP):
 
 Inventory system
